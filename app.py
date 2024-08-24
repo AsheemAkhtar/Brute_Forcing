@@ -1,7 +1,7 @@
 import requests
 #import time
 #sleep_after_iterations = 2
-url = "http://localhost/cybersec/wp-login.php"
+url = "http:/-----------/wp-login.php"
 
 # Read passwords from the file
 with open("passwords.txt", "r") as file:
